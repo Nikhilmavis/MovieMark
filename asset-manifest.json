@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbe2216a.chunk.css",
+    "main.js": "/static/js/main.8ea25689.chunk.js",
+    "main.js.map": "/static/js/main.8ea25689.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3492ecba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3492ecba.js.map",
+    "static/js/2.0469622f.chunk.js": "/static/js/2.0469622f.chunk.js",
+    "static/js/2.0469622f.chunk.js.map": "/static/js/2.0469622f.chunk.js.map",
+    "static/js/3.902f8ad4.chunk.js": "/static/js/3.902f8ad4.chunk.js",
+    "static/js/3.902f8ad4.chunk.js.map": "/static/js/3.902f8ad4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cbe2216a.chunk.css.map": "/static/css/main.cbe2216a.chunk.css.map",
+    "static/js/2.0469622f.chunk.js.LICENSE.txt": "/static/js/2.0469622f.chunk.js.LICENSE.txt",
+    "static/media/404.6f631ef4.svg": "/static/media/404.6f631ef4.svg",
+    "static/media/No connection.4ed469c3.svg": "/static/media/No connection.4ed469c3.svg",
+    "static/media/App.css": "/static/media/animation.a0ad94e6.jpg",
+    "static/media/onlyoffice.3ddfaf8a.ico": "/static/media/onlyoffice.3ddfaf8a.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3492ecba.js",
+    "static/js/2.0469622f.chunk.js",
+    "static/css/main.cbe2216a.chunk.css",
+    "static/js/main.8ea25689.chunk.js"
+  ]
+}
